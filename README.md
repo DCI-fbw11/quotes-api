@@ -14,7 +14,6 @@ Implement all related CRUD operations:
 * adding a quote to the DB
 * getting quote by id
 * getting a list of all quotes
-* getting a list of all quotes sorted by votes (ASC and DSC)
 * updating a quote
 * delete a quote by id
 
@@ -51,3 +50,12 @@ Implement an endpoint that returns the most voted quote.
 ### Most voted quote by category
 
 Implement an endpoint that returns the most voted quote in a given category.
+
+### Related quotes
+
+Implement en endpoint that returns related quotes
+Implement an endpoint that returns a quote and its related quotes
+
+### Sorting
+
+Get a list of all quotes sorted by votes count (ASC and DSC)
