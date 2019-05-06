@@ -14,6 +14,7 @@ Implement all related CRUD operations:
 * adding a quote to the DB
 * getting quote by id
 * getting a list of all quotes
+* getting a list of all quotes sorted by votes (ASC and DSC)
 * updating a quote
 * delete a quote by id
 
